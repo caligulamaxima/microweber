@@ -20,7 +20,7 @@
         "lightbox2": "2.11.1",
         "lightcase": "2.5.0",
         "matchdep": "*",
-        "minimist": ">=1.2.6",
+        "minimist": ">=1.2.7",
         "notifyjs-browser": "0.4.2",
         "owl-carousel": "1.0.0",
         "popper.js": "*",
@@ -30,6 +30,6 @@
     },
     "dependencies": {
         "@mdi/font": "^5.4.55",
-        "minimist": ">=1.2.6"
+        "minimist": ">=1.2.7"
     }
 }
